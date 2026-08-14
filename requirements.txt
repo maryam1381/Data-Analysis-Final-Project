@@ -2,4 +2,6 @@ datasets
 pandas
 matplotlib
 numpy
-nbformat
+geopandas
+folium
+shapely
